@@ -27,6 +27,9 @@ boolean found=false;
 			presentOrNot.presentOrNot();
 			
 		}
+	kamal(){
+		git pull
+	}
 	}
 
 
